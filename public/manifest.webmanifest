@@ -1,0 +1,9 @@
+{
+  "name": "Blackjack Pro Phaser",
+  "short_name": "Blackjack Pro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07070a",
+  "theme_color": "#c8a35a",
+  "icons": []
+}
