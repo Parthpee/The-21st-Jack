@@ -1,3 +1,4 @@
+
 # The 21st Jack — Real-time Probabilistic Strategy Engine For Blackjack
 
 **The 21st Jack** is a modern web-based Blackjack simulation game built for learning, strategy testing, and casino-style gameplay. It combines a playable Blackjack table with a real-time probability/strategy engine, Hi-Lo card counting, true count tracking, and responsive UI for desktop, tablet, and mobile browsers.
@@ -8,7 +9,7 @@
 
 ## Live / Repository
 
-Repository: `https://github.com/Parthpee/The-21st-Jack`
+<img width="2048" height="1082" alt="Screenshot 2026-07-10 at 02 23 09" src="https://github.com/user-attachments/assets/40dc49f7-b338-4227-bf4c-7e0abe181941" />
 
 ---
 
