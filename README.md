@@ -1,6 +1,6 @@
 # Blackjack Pro — Phaser Edition
 
-A modern browser-only Blackjack simulation built for VS Code using **TypeScript + Vite + Phaser**.
+A modern browser-only Blackjack simulation built using **TypeScript + Vite + Phaser**.
 
 This project is a full migration from the original single-file HTML/CSS/JavaScript prototype into a real game-development structure.
 
